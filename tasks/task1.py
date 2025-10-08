@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-    number=int(input("Введите число: "))
+    number=int(input())
     hundreds = number // 100          
     tens = (number // 10) % 10        
     units = number % 10  

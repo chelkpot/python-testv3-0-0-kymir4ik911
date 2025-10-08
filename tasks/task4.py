@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-    n=int(input("Введите число: "))
+    n=int(input())
     print(n + 2 - (n % 2))
 
     
